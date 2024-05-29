@@ -2,10 +2,10 @@
 
 MERN是一個可以用來建構全端的技術棧，使用MERN技術棧打造一個簡單的教學網站，使用者可以選擇成為老師或學生，並在網站上開課或註冊課程。
 
-MongoDB — document database（資料庫）
-Express.js — Node.js web framework（伺服器框架）
-React.js — a client-side JavaScript framework（前端框架）
-Node.js — the premier JavaScript web server（後端伺服器）
+1. MongoDB — document database（資料庫）
+2. Express.js — Node.js web framework（伺服器框架）
+3. React.js — a client-side JavaScript framework（前端框架）
+4. Node.js — the premier JavaScript web server（後端伺服器）
 
 主要功能:
 1. 註冊
